@@ -9,4 +9,4 @@ function sum(arr)
     return sum;
     
 }
-sum([10,30,10]);
+console.log(sum([10,30,10]));
