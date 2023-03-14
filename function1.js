@@ -11,4 +11,4 @@ function sum(arr)
     return sum;
     
 }
-console.log(sum([33,17,10]));
+console.log(sum([33,17,10,22]));
